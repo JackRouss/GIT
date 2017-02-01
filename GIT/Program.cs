@@ -11,7 +11,7 @@ namespace GIT
         static void Main(string[] args)
         {
             // ceci est un commentaire
-            Console.WriteLine("BITCH BETTER HAVE MY MONEY!");
+            Console.WriteLine("gfdsnfgsdufhisfhwbf");
         }
     }
 }
